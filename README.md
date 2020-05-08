@@ -97,7 +97,3 @@ And the last step is installing OpenCL driver to make your hashcat and any other
 sudo apt install -y ocl-icd-libopencl1 nvidia-cuda-toolkit
 
 A reboot is needed to make Bumblebee work as well as firejail adjustments.
-
-Written by KileXt, h0tw4t3r
-
-For further information see here and here If you run into any issues please post in support on the forum.
